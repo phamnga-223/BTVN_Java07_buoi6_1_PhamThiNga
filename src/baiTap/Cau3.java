@@ -2,6 +2,9 @@ package baiTap;
 
 import java.util.Scanner;
 
+/**
+ * Câu 3: Viết hàm tính tổng 3 số người dùng nhập vào
+ */
 public class Cau3 {
 
 	public static void main(String[] args) {

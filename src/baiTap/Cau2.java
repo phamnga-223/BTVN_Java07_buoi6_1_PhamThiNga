@@ -2,6 +2,9 @@ package baiTap;
 
 import java.util.Scanner;
 
+/**
+ * Câu 2: Viết hàm kiểm tra 1 số nhập vào là chẵn hay lẻ
+ */
 public class Cau2 {
 
 	public static void main(String[] args) {
